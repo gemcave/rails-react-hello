@@ -22,17 +22,17 @@ const SubHead = styled.p`
 
 const Button = styled.a`
 	display: inline-block;
-	 text-decoration: none;
-	 font-weight: bold;
-	 cursor: pointer;
-	 color: #333 !important;
-	 padding: 10px 20px;
-	 font-size: 18px;
-	 border-radius: 0;
-	 background: #fff;
-	 box-shadow: 0px 0px 0px 3px #473228,
-	 	-6px 6px #ef5f17,
-		-6px 6px 0 3px #473228; 
+	text-decoration: none;
+	font-weight: bold;
+	cursor: pointer;
+	color: #333 !important;
+	padding: 10px 20px;
+	font-size: 18px;
+	border-radius: 0;
+	background: #fff;
+	box-shadow: 0px 0px 0px 3px #473228,
+	-6px 6px #ef5f17,
+	-6px 6px 0 3px #473228; 
  `
 
 const Jumbotron = () => {
